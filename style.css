@@ -1,1 +1,30 @@
+.header {
+    background-color: #D2691E;
+    min-height: 50px;
+}
 
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  list-style: none;
+}
+
+.nav-item {
+    padding: 12px;
+    color: #000000;
+    text-decoration: none;
+
+}
+
+.footer {
+    background-color: #D2691E;
+    min-height: 50px;
+}
+
+.footer-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+}
