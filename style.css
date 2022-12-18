@@ -17,6 +17,31 @@
 
 }
 
+.main {
+   background-color: #C39BD3;
+}
+.main-table {
+    width: 100%;
+
+
+}
+
+.main-image {
+     width: 200px;
+     height: 200px;
+     object-fit: cover;
+}
+
+.main-item-left {
+         object-fit: cover;
+         width: 50%
+
+.main-item {
+         object-fit: cover;
+         width: 50%;
+
+}
+
 .footer {
     background-color: #D2691E;
     min-height: 50px;
@@ -27,4 +52,10 @@
   justify-content: space-between;
   align-items: center;
   margin: 0 auto;
+}
+
+.rs {
+  width: 121px;
+  height: 45px;
+  background-image: url("https://rs.school/images/rs_school_js.svg");
 }
